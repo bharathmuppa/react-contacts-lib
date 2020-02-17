@@ -1,0 +1,10 @@
+.AppContainer{
+  display: flex;
+  flex-direction: column;
+}
+.AppContainer__header{
+  flex: auto
+}
+.AppContainer__list{
+  flex: auto
+}
